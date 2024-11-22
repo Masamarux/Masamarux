@@ -30,7 +30,6 @@ My work is results-oriented, always seeking innovative solutions to complex prob
 ## 📬 Get in Touch
 
 - **E-mail**: [alves-marcelo97@hotmail.com](mailto:alves-marcelo97@hotmail.com)
-- **Twitter**: [@masamarux](https://twitter.com/masamarux)
 - **LinkedIn**: [in/marceloalves-](https://www.linkedin.com/in/marceloalves-/)
 
 Feel free to get in touch! I love meeting new people and discussing innovative ideas. Let's collaborate and create something amazing together!

@@ -1,35 +1,32 @@
 # Marcelo Alves
 
-Hello! I'm Marcelo Alves, a software developer with over 3 years of experience focused on Node.js. I have a passion for automation, web scraping, and data reading, using technologies like JavaScript and Python to create efficient and innovative solutions. Currently, I'm expanding my knowledge in Artificial Intelligence and DevOps to continue enhancing my skills and contribute to even more challenging projects.
+**Software Engineer | Fullstack Developer**  
+📍 Maceió, Brazil | 🌐 [GitHub](https://github.com/Masamarux) | 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-neto-dev)
 
-## 🌟 Experience
+I am a fullstack developer with over 3 years of experience, specializing in **Node.js**, **React**, and **TypeScript**. I am passionate about building scalable and optimized solutions using best development practices and modern technologies.
 
-Throughout my career, I've had the opportunity to work on diverse projects including:
+---
 
-- Fullstack development using Node.js and React.
-- Process automation and operational efficiency optimization.
-- Implementation of web scraping solutions for data extraction.
-- Development of AI and computer vision-based data readers.
-- Integration of various payment methods and creation of financial modules.
-- Performance optimization and cost reduction on cloud platforms like AWS.
-- Created CI/CD pipelines enhancing deployment efficiency and reducing downtime.
+## 💻 **Expertise**
 
-## 🛠️ My Skills
+- **Back-End:** Node.js, TypeScript, Express, NestJS, PostgreSQL, MongoDB, Prisma, Sequelize.
+- **Front-End:** React, Next.js, React Native, Redux, Styled Components, Tailwind CSS.
+- **DevOps:** Docker, Terraform, GitHub Actions, AWS (RDS, S3, Lambda, ECS), CI/CD.
+- **Others:** Python, Web Scraping (Puppeteer, Selenium), Testing (Vitest, Jest), Clean Architecture.
 
-- **Languages**: JavaScript, TypeScript, Python
-- **Frameworks/Libraries**: Node.js, React.js, React Native, Next.js, Nest.js
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Tools and Technologies**: AWS, Azure, GCP, Docker, Git, Slack
-- **Testing**: Vitest, Jest
-- **Automation/Web Scraping**: Puppeteer, Selenium, OpenCV, Tesseract, OCRs
+---
 
-## 💼 How I Work
+## 🚀 **Key Achievements**
 
-My work is results-oriented, always seeking innovative solutions to complex problems. I value efficiency and effectiveness, ensuring that my projects not only meet established goals but also exceed expectations. I work well in a team and believe in the importance of clear and constant communication for the success of any project.
+- **Automation & Efficiency:** Developed billing modules that reduced invoice processing time and taxes paid by over 50%.
+- **Scalable Architecture:** Refactored legacy backends to TypeScript with SOLID principles, improving maintainability and readability.
+- **Payment Integrations:** Implemented flexible integrations, enabling payments for over 2,000 clients.
+- **Robust Testing:** Created extensive unit and E2E tests, reducing production failures and ensuring system reliability.
 
-## 📬 Get in Touch
+---
 
-- **E-mail**: [alves-marcelo97@hotmail.com](mailto:alves-marcelo97@hotmail.com)
-- **LinkedIn**: [in/marceloalves-](https://www.linkedin.com/in/marceloalves-/)
+## 📬 **Contact**
 
-Feel free to get in touch! I love meeting new people and discussing innovative ideas. Let's collaborate and create something amazing together!
+- **Email:** alves-marcelo97@hotmail.com  
+- **LinkedIn:** [linkedin.com/in/marcelo-neto-dev](https://www.linkedin.com/in/marcelo-neto-dev)  
+- Always open to new collaborations and challenges!
